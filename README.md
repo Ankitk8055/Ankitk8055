@@ -1,12 +1,11 @@
 <!-- 🚀 Typing Animation Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=A29BFE&center=true&vCenter=true&width=435&lines=Hi+I'm+Ankit;Software Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=A29BFE&center=true&vCenter=true&width=435&lines=Hi+I'm+Ankit;Software-Engineer;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🌌 Code Voyager | Exploring the infinite techscape 🚀</h3>
 
 ---
-
 ### SOCIALS
 
 <div align="center">
