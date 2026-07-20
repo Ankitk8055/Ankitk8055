@@ -1,6 +1,6 @@
 <!-- 🚀 Typing Animation Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=A29BFE&center=true&vCenter=true&width=435&lines=Hi+I'm+Ankit;Full-Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=A29BFE&center=true&vCenter=true&width=435&lines=Hi+I'm+Ankit;Software Engineer;" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🌌 Code Voyager | Exploring the infinite techscape 🚀</h3>
@@ -42,19 +42,6 @@
 </table>
 
 </div>
-
----
-
-### 🛰 Mission Log
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawanpundir10&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-
-<p align="center">
-  <em>Tracking my trajectory through code galaxies — one commit at a time 🌌✨</em>
-</p>
 
 ---
 
