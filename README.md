@@ -4,57 +4,97 @@
 </h1>
 
 <h3 align="center">
-  🔥 <strong>Code Voyager</strong> | Exploring the Infinite Techscape 🚀
+🔥 Code Voyager | Exploring the Infinite Techscape 🚀
 </h3>
-### SOCIALS
-
-<div align="center">
-  <a href="mailto:14ankitkumar14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-14ankitkumar14@gmail.com-81ECEC?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/ankit-kumar-06283024a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ankit_Kumar-81ECEC?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/ankit-777/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-ankit-777-81ECEC?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</div>
-
----
-
-### 🧑‍🚀 Technologies I’ve Loaded Into My Ship
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="120"><strong>🐍<br><span style="color:#A29BFE">Python</span></strong></td>
-<td align="center" width="120"><strong>💻<br><span style="color:#A29BFE">JavaScript</span></strong></td>
-<td align="center" width="120"><strong>🧠<br><span style="color:#A29BFE">SQL</span></strong></td>
-<td align="center" width="120"><strong>🚀<br><span style="color:#A29BFE">C++</span></strong></td>
-</tr>
-
-<tr>
-<td align="center"><strong>⚛<br><span style="color:#81ECEC">React.js</span></strong></td>
-<td align="center"><strong>🎨<br><span style="color:#81ECEC">Tailwind CSS</span></strong></td>
-</tr>
-</table>
-
-</div>
-
----
-
-### 🌌 About Me
-
-> I’m Ankit, a passionate coder cruising through the universe of technology.  
-> I build full-stack apps
-> Always curious, always building.
-
----
-
-### ✨ Cosmic Quote
 
 <p align="center">
-  <em style="color:#A29BFE">“Somewhere, something incredible is waiting to be known.” – Carl Sagan</em><br/>
-  🌠 <span style="color:#81ECEC">Stay curious, stay cosmic.</span>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-DC2626?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Loves-AI-DC2626?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Full%20Stack-DC2626?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+<a href="mailto:14ankitkumar14@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ankit-kumar-06283024a">
+<img src="https://img.shields.io/badge/LinkedIn-DC2626?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/ankit-777/">
+<img src="https://img.shields.io/badge/LeetCode-DC2626?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode&theme=dark"/>
+
+</p>
+
+---
+
+# 🌌 About Me
+
+```text
+🔥 Software Engineer
+💻 Full Stack Developer
+🤖 AI Enthusiast
+📚 Constant Learner
+🚀 Building projects every day
+🌍 Open Source Explorer
+```
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankit-777&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-777&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ankit-777&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ankit-777&theme=radical&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# ✨ Quote
+
+> **"Somewhere, something incredible is waiting to be known."**  
+> — Carl Sagan 🌌
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ankit-777&label=Profile+Views&color=DC2626&style=for-the-badge"/>
 </p>
