@@ -65,33 +65,12 @@ Goal:
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ankit8055&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit8055&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Ankit8055&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ankit8055&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
