@@ -1,16 +1,74 @@
-## Hi there 👋
+<!-- 🚀 Typing Animation Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=A29BFE&center=true&vCenter=true&width=435&lines=Hi+I'm+Ankit;Full-Stack+Developer;" alt="Typing SVG" />
+</h1>
 
-<!--
-**Ankitk8055/Ankitk8055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🌌 Code Voyager | Exploring the infinite techscape 🚀</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SOCIALS
+
+<div align="center">
+  <a href="mailto:14ankitkumar14@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-14ankitkumar14@gmail.com-81ECEC?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ankit-kumar-06283024a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankit_Kumar-81ECEC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/ankit-777/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-ankit-777-81ECEC?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+### 🧑‍🚀 Technologies I’ve Loaded Into My Ship
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120"><strong>🐍<br><span style="color:#A29BFE">Python</span></strong></td>
+<td align="center" width="120"><strong>💻<br><span style="color:#A29BFE">JavaScript</span></strong></td>
+<td align="center" width="120"><strong>🧠<br><span style="color:#A29BFE">SQL</span></strong></td>
+<td align="center" width="120"><strong>🚀<br><span style="color:#A29BFE">C++</span></strong></td>
+</tr>
+
+<tr>
+<td align="center"><strong>⚛<br><span style="color:#81ECEC">React.js</span></strong></td>
+<td align="center"><strong>🎨<br><span style="color:#81ECEC">Tailwind CSS</span></strong></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🛰 Mission Log
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawanpundir10&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+
+<p align="center">
+  <em>Tracking my trajectory through code galaxies — one commit at a time 🌌✨</em>
+</p>
+
+---
+
+### 🌌 About Me
+
+> I’m Ankit, a passionate coder cruising through the universe of technology.  
+> I build full-stack apps
+> Always curious, always building.
+
+---
+
+### ✨ Cosmic Quote
+
+<p align="center">
+  <em style="color:#A29BFE">“Somewhere, something incredible is waiting to be known.” – Carl Sagan</em><br/>
+  🌠 <span style="color:#81ECEC">Stay curious, stay cosmic.</span>
+</p>
