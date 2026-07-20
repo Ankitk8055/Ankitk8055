@@ -1,11 +1,11 @@
-<!-- 🚀 Typing Animation Title -->
+<!-- 🔥 Premium Fire Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=A29BFE&center=true&vCenter=true&width=435&lines=Hi+I'm+Ankit;Software-Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=🔥+Hi,+I'm+Ankit;💻+Software+Engineer;🚀+Building+Awesome+Projects" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🌌 Code Voyager | Exploring the infinite techscape 🚀</h3>
-
----
+<h3 align="center">
+  🔥 <strong>Code Voyager</strong> | Exploring the Infinite Techscape 🚀
+</h3>
 ### SOCIALS
 
 <div align="center">
