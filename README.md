@@ -1,6 +1,7 @@
-<!-- 🔥 Premium Fire Title -->
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=🔥+Hi,+I'm+Ankit;💻+Software+Engineer;🚀+Building+Awesome+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ankit;Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG"/>
 </h1>
 
 <h3 align="center">
@@ -8,16 +9,17 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-DC2626?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Loves-AI-DC2626?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Full%20Stack-DC2626?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Open%20to%20Work-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-DC2626?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🔗 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
+
 <a href="mailto:14ankitkumar14@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -29,6 +31,7 @@
 <a href="https://leetcode.com/u/ankit-777/">
 <img src="https://img.shields.io/badge/LeetCode-DC2626?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -43,26 +46,32 @@
 
 ---
 
-# 🌌 About Me
+# 💫 About Me
 
-```text
-🔥 Software Engineer
-💻 Full Stack Developer
-🤖 AI Enthusiast
-📚 Constant Learner
-🚀 Building projects every day
-🌍 Open Source Explorer
+```yaml
+Name: Ankit
+Role: Software Engineer
+Focus:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Data Structures & Algorithms
+Learning:
+  - System Design
+  - Cloud Computing
+  - Machine Learning
+Goal:
+  - Build products that solve real-world problems
 ```
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankit-777&show_icons=true&theme=radical&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ankit8055&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-777&layout=compact&theme=radical&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit8055&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -72,7 +81,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ankit-777&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Ankit8055&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -82,7 +91,17 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ankit-777&theme=radical&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ankit8055&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit8055&theme=redical&hide_border=true"/>
 
 </p>
 
@@ -90,11 +109,17 @@
 
 # ✨ Quote
 
+<p align="center">
+
 > **"Somewhere, something incredible is waiting to be known."**  
-> — Carl Sagan 🌌
+> **— Carl Sagan**
+
+</p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ankit-777&label=Profile+Views&color=DC2626&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=Ankit8055&label=Profile%20Views&color=DC2626&style=for-the-badge"/>
+
 </p>
