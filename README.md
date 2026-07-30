@@ -62,30 +62,50 @@
 
 ```yaml
 Name: Ankit
-Role: Data Analyst
+
+Roles:
+  - Software Engineer
+  - Full Stack Developer
+  - Data Analyst
 
 Focus:
-  - Data Analysis
-  - Business Intelligence
-  - Data Visualization
-  - SQL & Python Analytics
+  - Full Stack Development
+  - Data Analysis & Visualization
+  - Backend Development
+  - Problem Solving with DSA
+  - AI-Powered Applications
 
 Learning:
-  - Advanced Power BI
+  - System Design
+  - Cloud Computing
   - Machine Learning
-  - Cloud Data Analytics
-  - Statistical Analysis
+  - Advanced Power BI
+  - Data Engineering
 
-Tools:
-  - Power BI
-  - SQL
+Tech Stack:
   - Python
+  - C++
+  - JavaScript
+  - React
+  - Node.js
+  - Express.js
+  - SQL
+  - MongoDB
+  - Power BI
   - Excel
   - Pandas
   - NumPy
+  - Git & GitHub
+
+Interests:
+  - Software Development
+  - Business Intelligence
+  - Artificial Intelligence
+  - Data-Driven Decision Making
+  - Scalable Web Applications
 
 Goal:
-  - Transform raw data into actionable insights and build data-driven solutions that create business impact.
+  - Build scalable software, develop impactful full-stack applications, and transform complex data into actionable insights that solve real-world business problems.
 ```
 
 # 🔥 GitHub Streak
