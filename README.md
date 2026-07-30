@@ -39,7 +39,20 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,cpp,javascript,react,nodejs,express,html,css,tailwind,git,github,vscode&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge"/>
 
 </p>
 
