@@ -10,11 +10,10 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Open%20to%20Work-DC2626?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analyst-DC2626?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20Engineer-DC2626?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full%20Stack-DC2626?style=for-the-badge"/>
 </p>
-
----
 
 # 🌐 Connect With Me
 
