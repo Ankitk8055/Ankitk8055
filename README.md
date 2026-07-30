@@ -108,26 +108,6 @@ Goal:
   - Build scalable software, develop impactful full-stack applications, and transform complex data into actionable insights that solve real-world business problems.
 ```
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ankit8055&theme=radical&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit8055&theme=redical&hide_border=true"/>
-
-</p>
-
----
-
 # ✨ Quote
 
 <p align="center">
