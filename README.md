@@ -110,16 +110,6 @@ Goal:
 
 ---
 
-# 📊 GitHub Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit8055&bg_color=0D1117&color=FFFFFF&line=DC2626&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</p>
-
----
-
 # ✨ Quote
 
 <p align="center">
