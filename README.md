@@ -108,11 +108,23 @@ Goal:
   - Build scalable software, develop impactful full-stack applications, and transform complex data into actionable insights that solve real-world business problems.
 ```
 
+---
+
+# 📊 GitHub Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit8055&bg_color=0D1117&color=FFFFFF&line=DC2626&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</p>
+
+---
+
 # ✨ Quote
 
 <p align="center">
 
-> **"Somewhere, something incredible is waiting to be known."**  
+> **"Somewhere, something incredible is waiting to be known."**
 > **— Carl Sagan**
 
 </p>
