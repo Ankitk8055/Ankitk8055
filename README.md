@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ankit;Data+Analyst;Full+Stack+Developer;AI+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com? font=Orbitron&size=35&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ankit;Data+Analyst;Full+Stack+Developer;AI+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG"/>
 </h1>
 
 <h3 align="center">
