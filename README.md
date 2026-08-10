@@ -1,8 +1,11 @@
 <!-- ========================= HEADER ========================= -->
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com? font=Orbitron&size=35&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ankit;Data+Analyst;Full+Stack+Developer;AI+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG"/>
-</h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ankit+Kumar+%F0%9F%91%8B;Software+Engineer+%7C+Full+Stack+Developer;Data+Analyst+%7C+AI+Enthusiast;Building+Scalable+%26+Impactful+Applications+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+</div>
 
 <h3 align="center">
 🔥 Code Voyager | Exploring the Infinite Techscape 🚀
