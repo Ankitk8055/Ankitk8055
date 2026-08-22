@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ankit+Kumar+%F0%9F%91%8B;Data+Analyst+%7C+AI+Enthusiast;Software+Engineer+%7C+Full+Stack+Developer;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+</a> 
  
 </div>
 
